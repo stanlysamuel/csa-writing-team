@@ -1,8 +1,8 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
-logo: 'assets/images/logo.png'
+name: "Golden Jubilee Interview Series"
+title: "CWT"
+description: "CSA Golden Jubilee Interview Series: The Department of Computer Science and Automation (CSA) was established in 1969 as the “School of Automation”. CSA celebrated its Golden Jubilee Year from August 01, 2019, to July 31, 2020. As part of this milestone, CSA started the Golden Jubilee Interview Series for which its in-house writing team interacted with eminent researchers who visited the department during the year. The idea was to record their journey in research for the benefit of current and future graduate students."
+logo: assets/images/logocsa2.png
 favicon: 'assets/images/logo.png'
 # baseurl: /mediumish-theme-jekyll
 baseurl: '/csa-writing-team'
@@ -14,6 +14,14 @@ permalink: /:title/
 
 # Authors
 authors:
+  stan:
+    name: Stanly Samuel
+    display_name: Stanly Samuel
+    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: 'assets/images/MPI_Stan_copy.jpg'
+    email: stanly@iisc.ac.in
+    web: https://www.quora.com/profile/Stanly-Samuel-1
+    description: "Editor-in-chief, CSA Writing Team and Ph.D student, CSA, IISc. Jack of all trades, Master of some."
   sal:
     name: Sal
     display_name: Sal
