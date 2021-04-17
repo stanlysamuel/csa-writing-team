@@ -17,4 +17,17 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'kramdown'
     gem 'rouge'
+    gem "jekyll", "~> 3.9"
+    gem "webrick", "~> 1.7"
+    gem "kramdown-parser-gfm"
 end
+
+#Clone Mediumish
+#Add these in Gemfile:
+# gem "jekyll", "~> 3.9"
+# gem "webrick", "~> 1.7"
+# gem "kramdown-parser-gfm"
+#bundle update jekyll
+#bundle install
+#Change baseurl:'' in config.yml
+#bundle exec jekyll serve --watch
