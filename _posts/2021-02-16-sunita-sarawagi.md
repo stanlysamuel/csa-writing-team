@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ML Conundrums - Prof. Sunita Sarawagi, IIT Bombay"
-author: stan
+author: shubham
 categories: [ Interview, ML, Intelligent Systems, Research ]
 image: assets/images/sunita_sarawagi.png
 featured: true

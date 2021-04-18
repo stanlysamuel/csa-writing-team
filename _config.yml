@@ -17,11 +17,21 @@ authors:
   stan:
     name: Stanly Samuel
     display_name: Stanly Samuel
-    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
     avatar: 'assets/images/MPI_Stan_copy.jpg'
-    email: stanly@iisc.ac.in
     web: https://www.quora.com/profile/Stanly-Samuel-1
     description: "Editor-in-chief, CSA Writing Team and Ph.D student, CSA, IISc. Jack of all trades, Master of some."
+  shubham:
+    name: Shubham Gupta
+    display_name: Shubham Gupta
+    avatar: 'assets/images/shubham.jpg'
+    web: https://scholar.google.co.in/citations?user=Nt-tK2UAAAAJ&hl=en
+    description: "Member, CSA Writing Team and Ph.D student, CSA, IISc. "
+  mahak:
+    name: Mahak Pancholi
+    display_name: Mahak Pancholi
+    avatar: 'assets/images/mahak.jpg'
+    web: https://pure.au.dk/portal/en/persons/mahak-rakesh-pancholi(4ec9a7d4-f10e-4f8e-a16b-ea8246d56ebb).html
+    description: "Member, CSA Writing Team and Ph.D student, Aarhus University, Denmark. Previously, an MTech student at CSA, IISc"
   sal:
     name: Sal
     display_name: Sal

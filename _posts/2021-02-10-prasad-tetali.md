@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Theory and Life - Prof. Prasad Tetali, Georgia Tech"
-author: stan
+author: mahak
 categories: [ Interview, Theory, Research ]
 image: assets/images/prasad.jpeg
 featured: true
