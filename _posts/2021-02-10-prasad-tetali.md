@@ -10,12 +10,14 @@ toc: true
 
 _Prof. Prasad Tetali is a Regents’ Professor in the School of Mathematics and the School of Computer Science at Georgia Institute of Technology. Dr. Tetali obtained his Ph.D. (1991) from the Courant Institute of Mathematical Sciences, NYU, after earning an M.S. (1987) from the School of Automation at IISc. His reseach interests lie in probability, discrete mathematics, algorithms and optimization, and has published more than 110 research articles. He is recognized as a SIAM fellow (2009) and an AMS Fellow (2012). Dr. Tetali is a former director and a current member of the steering committee of Georgia Tech's Algorithms and Randomness Center Think Tank (ARC) and has been on the coordinating committee of Georgia Tech's renowned interdisciplinary Ph.D program in Algorithms, Combinatorics and Optimization (ACO) for the past 2 decades. He served as the interim Chair of the School of Mathematics at Georgia Tech during CY 2015-16. He is currently the director of the ACO program and is an active member of the NSF-funded Transdisciplinary Research Instiutue for Advancing Data Science (TRIAD) at Georgia Tech._
 
-> ### Foreword
+> **Foreword:**
 Prof. Prasad had his first research paper published with the most prolific mathematician of the 20th century, Paul Erdös, consequently earning him an Erdös number = 1. I personally find the above fact stirring as it is not quotidian to be collaborating with an eccentric virtuoso and child prodigy who published around 1500 mathematical papers in his lifetime (a figure that remains unsurpassed). Read on as Prof. Prasad shares his experience of working with eminent scientists and his take on questions that plague the next generation of budding researchers, such as:
 * Will Theoretical Computer Science research render you jobless?
 * Is research even meant for you? If yes, academic or industrial?
 * What is the fundamental problem solving skill for every researcher? and many more...
-Stanly Samuel
+Stanly Samuel, Ph.D. student,  CSA, IISc
+
+This interview is conducted between CSA Writing Team and Prof. Prasad.
 
 ### You did your MS at IISc in 1987; how does it feel to be back after so many years? 
 
@@ -73,3 +75,11 @@ Once you graduate, you start some job, academic or not, and you won’t have the
 * One thing that we found very interesting in your talk is Markov chain mixing for evolutionary dynamics. How did you realise that there was a scope of Markov chain simulation here?
 * What do you think is an active area for applied research?
 * Students who join for Ph.D. or Masters by Research are not quite sure what kind of topics they should be studying, what kind of courses they should be doing. So if someone wants to start a career in theoretical research, what kind of preliminaries, do you think, they will need?
+
+**Credits:**
+
+* **Compiled and edited by:** Mahak Pancholi and Stanly Samuel
+
+* **Interviewed and transcribed by:** Haroon Ansari, Manohar Lal, Shivika Narang, Mahak Pancholi and Stanly Samuel
+
+**CSA Writing Team (CWT)**

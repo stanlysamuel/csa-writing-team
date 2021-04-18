@@ -1,8 +1,8 @@
 # Site
 name: "Golden Jubilee Interview Series"
 title: "CWT"
-description: "CSA Golden Jubilee Interview Series: The Department of Computer Science and Automation (CSA) was established in 1969 as the “School of Automation”. CSA celebrated its Golden Jubilee Year from August 01, 2019, to July 31, 2020. As part of this milestone, CSA started the Golden Jubilee Interview Series for which its in-house writing team interacted with eminent researchers who visited the department during the year. The idea was to record their journey in research for the benefit of current and future graduate students."
-logo: assets/images/logocsa2.png
+description: "CSA Writing Team (CWT) presents the CSA Golden Jubilee Interview Series: The Department of Computer Science and Automation (CSA) was established in 1969 as the “School of Automation”. CSA celebrated its Golden Jubilee Year from August 01, 2019, to July 31, 2020. As part of this milestone, CSA started the Golden Jubilee Interview Series for which its in-house writing team interacted with eminent researchers who visited the department during the year. The idea was to record their journey in research for the benefit of current and future graduate students."
+logo: assets/images/logocsa3.png
 favicon: 'assets/images/logo.png'
 # baseurl: /mediumish-theme-jekyll
 baseurl: '/csa-writing-team'
