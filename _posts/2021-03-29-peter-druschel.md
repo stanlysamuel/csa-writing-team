@@ -106,12 +106,9 @@ Sometimes I get an email that says, "I want to do the following" and they have s
 
 PD: Thank you very much. This was fun, you're very professional when you're interviewing. It was very well done.
 
-### Other questions answered in the [longer version:](https://csaiisc.quora.com/Interview-with-Prof-Prasad-Tetali-Georgia-Institute-of-Technology-1)
+### Other questions answered in the [longer version:](https://qr.ae/pGInn5)
 
-* You gave an excellent talk here on Markov chains, mixing time, and their applications. Could you motivate the same to undergraduate students?
-* One thing that we found very interesting in your talk is Markov chain mixing for evolutionary dynamics. How did you realise that there was a scope of Markov chain simulation here?
-* What do you think is an active area for applied research?
-* Students who join for Ph.D. or Masters by Research are not quite sure what kind of topics they should be studying, what kind of courses they should be doing. So if someone wants to start a career in theoretical research, what kind of preliminaries, do you think, they will need?
+
 
 **Credits:**
 
