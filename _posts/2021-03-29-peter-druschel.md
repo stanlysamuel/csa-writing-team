@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Theory and Life - Prof. Prasad Tetali, Georgia Tech"
+title:  "Bootstrapping and Risk Taking - Prof. Peter Druschel, Max Planck Institute for Software Systems"
 author: stan
-categories: [ Interview, Theory, Research ]
-image: assets/images/prasad.jpeg
+categories: [ Interview, Systems, Research ]
+image: assets/images/peter_druschel.jpg
 featured: true
 toc: true
 ---
 
 _Prof. Prasad Tetali is a Regents’ Professor in the School of Mathematics and the School of Computer Science at Georgia Institute of Technology. Dr. Tetali obtained his Ph.D. (1991) from the Courant Institute of Mathematical Sciences, NYU, after earning an M.S. (1987) from the School of Automation at IISc. His reseach interests lie in probability, discrete mathematics, algorithms and optimization, and has published more than 110 research articles. He is recognized as a SIAM fellow (2009) and an AMS Fellow (2012). Dr. Tetali is a former director and a current member of the steering committee of Georgia Tech's Algorithms and Randomness Center Think Tank (ARC) and has been on the coordinating committee of Georgia Tech's renowned interdisciplinary Ph.D program in Algorithms, Combinatorics and Optimization (ACO) for the past 2 decades. He served as the interim Chair of the School of Mathematics at Georgia Tech during CY 2015-16. He is currently the director of the ACO program and is an active member of the NSF-funded Transdisciplinary Research Instiutue for Advancing Data Science (TRIAD) at Georgia Tech._
 
-> ### Foreword: 
+> ### Foreword
 Prof. Prasad had his first research paper published with the most prolific mathematician of the 20th century, Paul Erdös, consequently earning him an Erdös number = 1. I personally find the above fact stirring as it is not quotidian to be collaborating with an eccentric virtuoso and child prodigy who published around 1500 mathematical papers in his lifetime (a figure that remains unsurpassed). Read on as Prof. Prasad shares his experience of working with eminent scientists and his take on questions that plague the next generation of budding researchers, such as:
 * Will Theoretical Computer Science research render you jobless?
 * Is research even meant for you? If yes, academic or industrial?
