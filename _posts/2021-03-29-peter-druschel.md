@@ -2,7 +2,7 @@
 layout: post
 title:  "Systems, Security and Startups - Prof. Peter Druschel, Max Planck Institute for Software Systems, Germany"
 author: stan
-categories: [ Interview, Systems, Research, Startups ]
+categories: [ Interview, Systems, Research, Security, Startups ]
 image: assets/images/peter_druschel.jpg
 featured: true
 toc: true
