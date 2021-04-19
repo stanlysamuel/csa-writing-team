@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bootstrapping and Risk Taking - Prof. Peter Druschel, Max Planck Institute for Software Systems"
+title:  "Systems, Security and Startups - Prof. Peter Druschel, Max Planck Institute for Software Systems, Germany"
 author: stan
 categories: [ Interview, Systems, Research, Startups ]
 image: assets/images/peter_druschel.jpg
@@ -34,10 +34,6 @@ PD: I took this particular path, so it's a little bit hard for me to say with ce
 
 But if I think about it hard, then the two things that I learned there that benefitted me later are - first, I realized that getting a piece of software or a product into actual practical use is much more complicated than you think. It's one thing to get a part of a program to work and substantial additional effort to actually getting it to production use. So that was certainly interesting, but I am not sure you have to have that experience yourself to know it. The other thing is that it somehow eradicated my curiosity about what it would be like. Unlike many of my colleagues who always thought, "Ugh, I wanna do a startup at some point! I've never done this!", I was never tempted (laughter). I had seen that side before.
 
-### SS: Precisely! The reason I asked this question was due to the fact that this is a very common thought that pops-up among young students. So, technically you found that one true solace in research, and you're happy with it.
-
-PD: Yes, that’s right.
-
 ### SS: Which area in Computer Science should we be looking at for the next decade?
 
 PD: All of us are biased by what we are personally interested in. I could, of course, tell you all the things that I work on, but that wouldn't be fair as that's my personal take. But generally speaking, I think security and privacy are hugely important themes, and so is ethics in computing. Not to say that other things are not interesting - I mean, there are tremendous advances in AI and vision and NLP, but the issues that fire me up more and where I see potentially game-changing decisions being made, are in security and privacy. The reason is that the way society uses computing technology will depend on how we position ourselves related to these subjects in the next ten years. This may not be as critical as it may seem and it may not be the same in all parts of the world. Nevertheless, I have a feeling that, in society, as computing becomes more pervasive, it entrenches positions that affect everybody. For example, credit applications, job applications, what news you see, whom you get introduced to on social networks, etc will be soon be managed by computing technology, algorithms, and machine learning. These are such deep influencers on people’s lives that people will sooner or later start asking questions about fairness, about issues like discrimination, about issues of what happens with my private data, and what's the balance of power between someone who is just a consumer, someone who releases their data, the corporations - perhaps the governments - that are using this massive data and how much knowledge can be extracted. I think this is really critical, and security is tied to that as well.
@@ -52,31 +48,11 @@ PD: So I think there is a certain bias. Much of the work being done in cryptogra
 
 So, I think we need to also get on both sides. I think the general population needs to be more comfortable and more knowledgeable about cryptography. At the same time, security researchers - may be also cryptographers - need to get more comfortable with the idea that sometimes we cannot have hard guarantees. We need to settle for raising the fence to a certain level and hopefully have a good understanding of how high the fence is - what that means is focusing on where the remaining threats are. I hope this makes sense.
 
-### SS: To come back to the previous topic - now that we have broached the subject of machine learning - what are your exact views of this particular area, and where it is headed? (since you seem to have certain strong views on that.)
-
-PD: Well, I am not sure., I've to be careful because I am not an expert on ML, and I am as informed about ML as any general computer scientist, so I don't claim any particular knowledge about it. But I think it's very exciting. It's one of the real breakthroughs in computing. We'll get to see it that in 10-20 years. At the same time, exactly how powerful it will be and how we deal with things like explainability, in particular, will be another essential thing.
-
-Now, we ourselves are an engineering discipline where we have formal guarantees i.e. why a system works and what properties it has. It is challenging to get this with machine learning as it stands now. So, it may turn out that we just don't know enough or it may be a similar situation as we just talked about in security i.e. we need to settle for certain unknowns, and hopefully, we can put in guard rails that reflect– “we cannot be absolutely sure within this range, but we know that there exists a security perimeter (or guardrail) that we can't step outside of”. This security perimeter is a perimeter of possible behaviors.
-
-### SS: What do you do apart from work? For example, I see that you are interested in heavy metal concerts, I don’t know if you’re a musician, but is there any side of you that you'd like to share with the general audience, and how does that help you complement your research?
-
-PD: Well, I don't view myself as being a particularly interesting individual. I like to do some sports, and I think that's important to keep my balance. Yes, I like to go to cultural events. I go to these metal concerts - you've probably seen some of my announcements in the [MPI-SWS] institute. But I also go to classical music; last year at Microsoft we had this classical Indian dance event which was absolutely fantastic. I also try to stay abreast of what's going on in politics to the extent that it affects all of us. Beyond that, I don't think there is anything special.
-
-I think you need balance in life; a lot of technically inclined people underestimate this fact. The following statement might be controversial but the world doesn't operate on math. It operates on human relationships. So you cannot neglect these aspects even if it might be very exciting to get deep into technical stuff. This is important to keep in mind.
-
-The other thing is, sometimes - particularly in Europe - I have young students who are just starting their Ph.D., and they'll come to me and talk about work-life balance, and I've to say that I am somewhat allergic to that - not that I am not in favor of it, but I think graduate school is a fantastic opportunity at the right stage in your life to really focus on some subject; you would want to try to exploit that opportunity because it is a limited window.
-
-After this window, you will have responsibilities, you won’t have that much time to study anymore and just feed your intellect. Thus, according to me, Ph.D. is a fantastic opportunity, and it is not the right time to think about work-life balance, which is not to say that you shouldn't pursue your cultural activities, maintain your social relationships, and do some exercise if that's what you do - of course, keep your balance. But, this is not the time to say I only want to work 35 hours a week, and outside I've to do many other things. That's a waste of an opportunity, in my opinion.
-
-### SS: Any particular specific advice apart from what you just said which can help a graduate student?
-
-PD: View graduate school as an opportunity that you want to exploit to the maximum and as an opportunity to get really deep on a technical subject. A Ph.D. also means you have to do other things - you have to have technical mastery of a particular area, to the edge of what is known - which in itself is impressive - but you also need to learn how to present, how to convince people of the results you have.
-
-I think increasingly, it's also important to think a little bit - even if you're not an expert - how the tech you develop (or you're the expert in) affects society more broadly. I think it's not sufficient who works on ML to say, "Explainability, fairness is not my problem, let the law and the social science people worry about this." I think this is a naive view - not that the social science guys are not needed, but I think that needs to be jointly done.
-
 ### SS: You've worked with many esteemed researchers and scientists. Would you like to share any interesting stories or something you think a general audience would benefit from?
 
 PD: I'm very privileged to have met very smart people with exceptional skills but interestingly, having been really gifted intellectually is not a guarantee of success when you do research. I have seen some people much, much smarter than I am and they never made it through graduate school because somehow they couldn't get the balance right between time management, focus, risk-taking, and all these things that play into it.
+
+>Interestingly, having been really gifted intellectually is not a guarantee of success when you do research.
 
 But this is not a negative, right? I don't view these people as failures, and I don't consider it as a failure to have not succeeded in this. It just means that it wasn't a good match. I think we're all very differently talented, and I think it's a problem of finding your niche, finding the right niche. At the same time, we are incredibly fortunate to be able to work in a world where ideas matter, not only money and power; although the latter plays into it as well, it is not the primary thing. I feel highly privileged for that.
 
@@ -92,10 +68,6 @@ PD: There are plenty of opportunities, typically across the system. We have now 
 
 For graduate students, the match matters because these students are generally involved in some primary area of research. I think it might make sense to do an industrial internship to get that industrial experience where you may be expected to do something unrelated to your primary research; this may be okay early in the research career. But, when you go into an academic institute, there should be some match of interest. So, there needs to be a match, but by all means, we're very happy to have you.
 
-### Prof. Narahari, CSA: Krishna [a Prof. at MPI-SWS] came here in July. My student Arpita met him, they had a conversation, and now they have a paper in WWW [a top-tier conference]. So, that's how discussions pan out. MPI is a fantastic institute - a very lively, very vibrant place, excellent for a post-doc. You also have a Ph.D. program, right?
-
-PD: Yes, we do. In fact, for the last couple of years, we've had a joint program where people can apply without having to commit to any sub-area or any institute. They can join, they can explore different areas regardless of location, they can visit various places and try research in the semester break if they're coming with a bachelors’ and then typically by the end of the third semester, they decide on an area, an advisor and an institute.
-
 ### SS: The trend I have seen is that students apply through the internship portal. However, it helps more if you know the professor or researcher you want to be working with, beforehand. How do you think a student should go about making that initial contact?
 
 PD: It's a bit hard- the problem is that it’s difficult to stand out because we get lots and lots of emails. So, the ideal situation is when you have met the person, say, at a conference or when he/she visits the organization. But nevertheless, I think, to me, it's always impressive when I get an email and see that they've done their homework i.e. they've read my papers, they've something intelligent to say or to ask; this is the sort of thing that stands out. I am not looking for is a complete research proposal.
@@ -107,8 +79,11 @@ Sometimes I get an email that says, "I want to do the following" and they have s
 PD: Thank you very much. This was fun, you're very professional when you're interviewing. It was very well done.
 
 ### Other questions answered in the [longer version:](https://qr.ae/pGInn5)
+* SS: To come back to the previous topic - now that we have broached the subject of machine learning - what are your exact views of this particular area, and where it is headed? (since you seem to have certain strong views on that.)
+* SS: What do you do apart from work? For example, I see that you are interested in heavy metal concerts, I don’t know if you’re a musician, but is there any side of you that you'd like to share with the general audience, and how does that help you complement your research?
+* SS: Any particular specific advice apart from what you just said which can help a graduate student?
 
-
+>I think you need balance in life; a lot of technically inclined people underestimate this fact. The following statement might be controversial but the world doesn't operate on math. It operates on human relationships. So you cannot neglect these aspects even if it might be very exciting to get deep into technical stuff. This is important to keep in mind.
 
 **Credits:**
 

@@ -1,7 +1,7 @@
 # Site
 name: "Golden Jubilee Interview Series"
 title: "CWT"
-description: "CSA Writing Team (CWT) presents the CSA Golden Jubilee Interview Series: The Department of Computer Science and Automation (CSA) was established in 1969 as the “School of Automation”. CSA celebrated its Golden Jubilee Year from August 01, 2019, to July 31, 2020. As part of this milestone, CSA started the Golden Jubilee Interview Series for which its in-house writing team interacted with eminent researchers who visited the department during the year. The idea was to record their journey in research for the benefit of current and future graduate students."
+description: "CSA Writing Team (CWT) presents the CSA Golden Jubilee Interview Series: The Department of Computer Science and Automation (CSA) at IISc, Bangalore was established in 1969 as the “School of Automation”. CSA celebrated its Golden Jubilee Year from August 01, 2019, to July 31, 2020. As part of this milestone, CSA started the Golden Jubilee Interview Series for which its in-house writing team interacted with eminent researchers who visited the department during the year. The idea was to record their journey in research for the benefit of current and future graduate students."
 logo: assets/images/logocsa3.png
 favicon: 'assets/images/logo.png'
 # baseurl: /mediumish-theme-jekyll
@@ -19,13 +19,13 @@ authors:
     display_name: Stanly Samuel
     avatar: 'assets/images/MPI_Stan_copy.jpg'
     web: https://www.csa.iisc.ac.in/people/stanly-john-samuel/
-    description: "Editor-in-chief, CSA Writing Team and Ph.D student, CSA, IISc. Jack of all trades, Master of some."
+    description: "Editor-in-chief, CSA Writing Team and Ph.D. student, CSA, IISc."
   shubham:
     name: Shubham Gupta
     display_name: Shubham Gupta
     avatar: 'assets/images/shubham.jpg'
     web: https://scholar.google.co.in/citations?user=Nt-tK2UAAAAJ&hl=en
-    description: "Member, CSA Writing Team and Ph.D student, CSA, IISc. "
+    description: "Member, CSA Writing Team and Ph.D student, CSA, IISc."
   mahak:
     name: Mahak Pancholi
     display_name: Mahak Pancholi

@@ -61,56 +61,6 @@ I think that it is difficult for one student to multiplex across problems if he 
 
 I used to love writing code. I would not believe or trust anyone else’s code. So, I would actually write code myself. For example, most of the coding was done by me for our KDD 2014 paper [in addition to] collecting the data, labeling it, and writing the paper. Nowadays it has become a bit difficult. Now I have a lot more students [and it is hard to find time to code].
 
-
-### Here is another question from our readers. Most of the ML research has been reduced to beating the accuracy numbers. Is it a good way to go forward, and if not, then how should we proceed?
-
-Certainly [it is] not [a good approach] in deep learning. In deep learning, you can improve accuracy just by tweaking network architecture or adding some pre-training, or performing a better hyperparameter search. In fact, I tend to stay away from those problems where there is a huge race towards one or two datasets on which everybody is trying to fine-tune those accuracies. I think one should not do this. Most of us cannot win that race.
-
-I think we are much better off chasing ideas. Most of my papers start with: “hey, this would be an interesting thing to explore and I don’t think anyone has done that”. There are some papers where we were forced to compare with benchmarks, but we did not start by comparing on benchmarks. Like the grammar correction problem. I am not an NLP person and I got into grammar correction after visiting an industry where they believed that this would be an interesting problem to solve. I was interested in exploring the ideas. One idea, in particular, was that I did not want to build monolithic systems. I wanted to build systems where you can express human background knowledge in modules and create a modular system. I thought that grammar correction has that capability. But I found that everyone who does grammar correction creates these elaborate sequence-to-sequence models which I realized was overkill for the problem. I then wanted to see if we could do it as a sequence labeling problem. This is an example of chasing ideas.
-
-I am driven by whether we can push some interesting ideas rather than [being driven by] getting state-of-art numbers. I don’t even think of standard datasets. Datasets are like an afterthought. But, unfortunately, later I found that many people who publish a lot of papers start with datasets. I usually start with: “Okay! I want to push this idea”.
-
-### I want to ask a related question. It’s about people who publish a lot of papers. I believe that paper count is not a good metric. Do you think that using paper count as a metric leads to the kind of research where you can tweak things slightly to beat the state-of-art results, without worrying about the quality of the idea?
-
-Yes, although it is difficult to be judgemental because everyone is struggling. It is very difficult to write a paper and to get it accepted given a huge competition and yes, we should not go after the numbers game. But I don’t want to give that advice too much to junior graduate students. For junior graduate students, I would say go for it. Find whatever you can. But, for seasoned researchers, I would say – let’s skip that and only solve problems that generate results.
-
-
-### How would your advice to a junior Ph.D. student differ from that to a senior Ph.D. student?
-
-For a starting Ph.D. student, it helps a lot with their morale if they can write a paper, attend a conference, meet the community, and get excited. And at that time if you have the attitude that I will only write a paper that is truly ground-breaking then you will wait too long and in the meantime, you might get demoralized. Your advisor might get impatient. So, I would like to be practical. I would advise new Ph.D. students, go ahead and write whatever they can. After that, they can be pickier.
-
-What do you think about Ph.D. students changing their focus of research during the course of their Ph.D.? It may be appealing to switch to a more “hot” topic.
-
-See, sometimes an area in which there is a lot of interest might also be the area where there are a lot of chances of getting scooped. Also, you have depth in an area in which you have already worked, you have something to say, and just because it is not super-crowded currently does not mean that it is an area you should not work on. In the long term, the topic may gain relevance and interest. I would not react too much based on a few experiences.
-
-The thing about research is that there is no single correct answer. For everything, I will be giving these “middle-path” kinds of answers because it is not a one-strategy work for all kinds of scenarios. In the earlier stages of my career, I was really excited about graphical models. I had developed an interest in CRFs, semi-CRFs, and related topics. But then, people started being super excited about deep learning. At that point, I felt that instead of bothering about graphical models, you should work on more relevant problems, especially when you see that you get such high accuracy numbers. But I did not switch immediately. In general, my immediate reaction towards very hot problems is to kind of stay away from them. But that is just me.
-
-
-### The next question is about your industry experience. How do you think industry experience is different from academia? And, what advice would you give to an Indian student?
-
-Industry is not what it used to be. I have had two industry experiences. After my Ph.D., I joined IBM which was an old Bell labs kind of research industry at that time as opposed to, for example, Google. There are great researchers [at Google] and there are some groups that are doing pure research, but the group which I joined was interested in doing work that is relevant for Google and which could be launched into Google products.
-
-Overall, [in the context of joining industry vs academia after Ph.D.] I would say that you should join the industry if you are in a group that aligns with your interests. First, you get to work on one problem in depth which is a big plus. And, if you are excited about deployment, in people using your stuff, then in companies like Google you can see them launch the thing, and it is very satisfying for many people to see that [the world is] using their ideas.
-
-Another big plus in the industry is that mostly you would be working with your teammates who are all very skilled and competent people. In academia, you would be working with students. By the time they become good, they leave. So you have better co-workers [in the industry].
-
-But, on the downside, you have limited freedom. In a big company, you have a lot of internal competition about who gets to work on which problems. In academia, you can choose whatever you want. In industry, your manager, your boss, they have to agree with your choice. There should be some planning, so you are not in full charge of what you work on. And you may work on some problems with a lot of zeal for eight months and the problem might get scrapped because of some top-level decision. These are the negative points related to working in the industry.
-
-In academia, symmetrically, you have full freedom. Particularly in Indian institutions, the pressure to get funds is also limited so far, although I don’t know how long this would last. You can just do whatever you want. It is a stable job, and if you have to be in India, the good thing about these top institutes is that there is a nice campus and the quality of life is good. And if you like teaching it is even better. But if you don’t [like teaching], then it’s a negative point.
-
-
-### I am a big fan of teaching…
-
-Then it is great. One big advantage of teaching is that you really learn a subject well. In industry, you might be doing research on a topic and it is okay for you to be totally focused [on that topic] and go towards one path without bothering about comparing with other options in a neutral way. Whereas standing in front of a class of 100 people, you have to be academic. You cannot be biased, you have to understand everything. You need to have the confidence that I know this field because I have taught it for so long. You have to really master the subject, unlike in the industry. That is one of the positives.
-
-Of-course the big negative is that there is too much multitasking. There are master's projects, B.Tech students, short-duration projects. Students also multitask, so do faculties. The kind of depth of exploration and development you can indulge in an industry, you don’t have it in academia.
-
-
-### Would you like to give advice specifically for the Indian students? I have been told that if you just send a cold e-mail to the professors [regarding an internship] or if you apply online to places like Google, it is extremely unlikely that you will be picked up. They get thousands and thousands of applications. How do we deal with this?
-
-Here is one thing that might help: when you write a paper and have a poster session for that paper, you meet people who are interested in the poster and ask them if they have an interview chance. Because these are the people who are interested in your work, you say that “look I am looking for an internship”. And likewise, you have to look at papers of people that you are interested in and go to their posters. Basically, conferences should be used for such things. If you lack an advisor based on whose recommendation you can get selected for internships, you have to exploit the face-to-face interaction time that you get at conferences. And you have to be aggressive. You cannot be shy, polite, and respectful. When you see westerners, they are aggressive. Niceness is less important than someone who means business. So take those crash courses on approaching people confidently.
-
-
 ### There are long periods of time where you are just looking for a problem. How do you stay motivated during this time?
 
 That is actually a good one. First, it is very important to stay connected, even when you are looking for problems. Even though your advisor might be avoiding you, you have to keep pestering your advisor. Continue to go for your weekly or biweekly meetings. Tell him/her what you have done, what your thoughts are. Ask what they think about the problem. Do not vanish. Because that absolutely does not help. Do not assume that I am going to solve this problem or come up with a problem and then meet my guide. Maintain regular contact.
@@ -125,11 +75,15 @@ You should also maintain a deadline. As in, “if by this point I do not come up
 
 One more thing I would say about staying motivated and not getting depressed: I am very scared of students getting depressed and losing it. Just go out, exercise. Both physical and mental alertness is required to do good research. Many Ph.D. students make the mistake of isolating themselves. They spoil their health. Sometimes, just going for a run, going for a swim, it helps. It gives you new ideas. Stay healthy.
 
-### Other questions answered in the [longer version:](https://csaiisc.quora.com/Interview-with-Prof-Sunita-Sarawagi-IIT-Bombay)
+### Other interesting questions answered in the [longer version:](https://csaiisc.quora.com/Interview-with-Prof-Sunita-Sarawagi-IIT-Bombay)
 
+* Here is another question from our readers. Most of the ML research has been reduced to beating the accuracy numbers. Is it a good way to go forward, and if not, then how should we proceed?
+* I want to ask a related question. It’s about people who publish a lot of papers. I believe that paper count is not a good metric. Do you think that using paper count as a metric leads to the kind of research where you can tweak things slightly to beat the state-of-art results, without worrying about the quality of the idea?
+* How would your advice to a junior Ph.D. student differ from that to a senior Ph.D. student?
+* The next question is about your industry experience. How do you think industry experience is different from academia? And, what advice would you give to an Indian student?
+* Would you like to give advice specifically for the Indian students? I have been told that if you just send a cold e-mail to the professors [regarding an internship] or if you apply online to places like Google, it is extremely unlikely that you will be picked up. They get thousands and thousands of applications. How do we deal with this?
 * There is noise in the review process. Is there something that can be done to fix the noise? How serious is this problem?
 * What do you mean by a two-tier reviewing system?
-* How do you know Bengali so well even though you are not from West Bengal?
 
 **Credits:**
 

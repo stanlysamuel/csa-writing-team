@@ -38,7 +38,7 @@ I don't think I had explicitly thought of research before IISc. We all had a fin
 
 I have to say, it is due to my MS mentor at CSA, Prof. Veni Madhavan. He introduced me to combinatorics, Knuth's volumes, in particular Volume 3, and that’s how I got interested in discrete mathematics.
 
-A lot of people think there is very little scope for research in Theoretical Computer Science. Aspiring researchers think that it is tough to find something new in this field. What are your opinions about this? What do you think are some interesting challenges lying for mathematical and theoretical research in computer science?
+### A lot of people think there is very little scope for research in Theoretical Computer Science. Aspiring researchers think that it is tough to find something new in this field. What are your opinions about this? What do you think are some interesting challenges lying for mathematical and theoretical research in computer science?
 
 I digressed from your original question. It is true that there are fewer jobs out there to pursue TCS in the very classical sense of traditional algorithm design or understanding the complexity of NP-hardness problems. But let me say, for better or worse, algorithms are in use, literally, everywhere these days. So the TCS is community is constantly making forays into, and having an impact in, various classical as well as modern branches of science - whether it is algorithmic game theory, auctions and mechanism design with Economics, or bioinformatics and genomics in Biology, or Deep learning in Non-convex Optimization and in Operations Research, analysis of mixed-integer programs in Operations Research, Robotics and other areas.
 
@@ -48,6 +48,7 @@ The TCS community is transporting their body of knowledge and analytical techniq
 
 My first paper was pretty much with Paul Erdös. Once my wife and I moved to Atlanta, he visited and stayed with us a couple of times. Atlanta is a hub. There’s a famous saying by the Economist magazine, I think, that whether you go to heaven or hell, you transfer in Atlanta. Erdös used to say that as he passed through Atlanta. Once he had come to visit us. He had arrived from Argentina or somewhere where it was winter at the time. And he was going to leave in 3-4 days. I saw that there were a bunch of things, like a jacket and winter coats, in the closet. He had not yet packed them. I asked him, “What about these Paul?” He said, “Oh I’m going to be in North America for the next few months. So, I don’t need them.” He travelled minimally and perhaps owned less. I really wish that I had known him earlier in his career. I knew him during 1989–1990 through 1995 or so and he passed away in 1996. He liked to think about math problems constantly. He would digress occasionally to talk about history or politics. During the time I had known him he was mostly applying his older known techniques to solve new problems. We had two different proofs of one of the bounds in our paper. The simpler proof used a new inequality (at that time) introduced by Svante Janson and others. Erdös has asked me multiple times to explain how that proof went. He was still trying to learn new stuff that intrigued him. I have been very fortunate to have had great mentoring and productive associations with famous, yet humble and sharing, mathematical souls! I have also been blessed with several great students. As I am aging in my career, I find that they do more and more of the bulk of the work, I am embarrassed to admit.
 
+>The one regret I have had for a long time was not having stayed an additional year to learn more math. I was at an excellent institution. I took some basic required things and some additional number theory because I liked it. Otherwise, I didn’t learn probability theory nor pure math in depth, for example, and I had to learn some of that later on my own.
 
 ### One thing that a lot people who are doing Masters and PhD wonder about is whether they should eventually join academia or should they go for industrial research. How would you suggest they make that choice?
 
@@ -69,7 +70,7 @@ The one regret I have had for a long time was not having stayed an additional ye
 
 Once you graduate, you start some job, academic or not, and you won’t have the same time to just sit and learn something deeply. So, while in graduate school, maximise your learning.
 
-### Other questions answered in the [longer version:](https://csaiisc.quora.com/Interview-with-Prof-Prasad-Tetali-Georgia-Institute-of-Technology-1)
+### Other interesting questions answered in the [longer version:](https://csaiisc.quora.com/Interview-with-Prof-Prasad-Tetali-Georgia-Institute-of-Technology-1)
 
 * You gave an excellent talk here on Markov chains, mixing time, and their applications. Could you motivate the same to undergraduate students?
 * One thing that we found very interesting in your talk is Markov chain mixing for evolutionary dynamics. How did you realise that there was a scope of Markov chain simulation here?
